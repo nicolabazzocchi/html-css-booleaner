@@ -1,7 +1,8 @@
 *{
   margin: 0;
-}
 
+}
+/* header */
 h1.title{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px;
@@ -15,6 +16,7 @@ header{
   height: 150px;
   background-color: aqua;
 }
+/* main */
 main h2{
   font-family: Impact, Haettenschweiler,Arial, Helvetica, sans-serif
   font-size:50px;
@@ -31,7 +33,7 @@ main span{
   font-size: 15px;
 
 }
-/* inserire foto */
+
   
 
 section>span{
@@ -42,5 +44,58 @@ section>span{
 .text,span{
   font-family: 'Courier New', Courier, monospace;
   font-size: 15px;
+
+}
+
+.lorem{
+  background-color: blue;
+  margin: 0;
+}
+
+th{
+  color:#ffff
+  
+
+
+}
+
+.celeste{
+  background-color: rgb(147, 191, 218);
+}
+
+.acquamarina{
+  background-color: rgb(147, 191, 218);
+}
+
+th{
+  padding: 10px;
+
+}
+
+.left{
+  text-align:right;
+
+
+}
+.space{
+  text-align:right;
+
+
+}
+
+.center{
+  text-align: right;
+  width: 500px;
+
+}
+
+.sit,span{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+}
+
+
+div>h4{
+  color: darkgrey;
 
 }
